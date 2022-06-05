@@ -1,0 +1,1 @@
+- 👋 What is tealSoft? It is my registered trademark for software business. Or just for sample projects or open source contributions.
